@@ -1,0 +1,26 @@
+[
+    {"Company":"Infosys",
+     "work_experience":"2 yrs",
+     "designation":"Senior System Engineer",
+     "work":[
+        "I have worked as front-end developer for development of datamasking application",
+        "I was also responsible for masking data provided by the client through optim software",
+        "I have developed programming scripts as per client requirements for the datamasking procedure",
+        "Debugged applications to resolve logical and programming issues"
+     ],
+     "skills":["SQL","Node","React","MERN Stack"]
+    },
+    {"Company":"Qualtechedge",
+     "work_experience":"1 yr 1 month",
+     "designation":"Associate Engineering Analyst",
+     "work":[
+        "Accomplished Front-End Developer with a focus on product development, contributing to projects like mifin LOS and mifin LMS.",
+        "Expert in translating Figma designs into functional and engaging web applications, showcasing proficiency in Chakra UI, TypeScript, and React.",
+        "Specialized in crafting responsive and intuitive user interfaces, leveraging cutting-edge technologies like React, React Query, and Redux Toolkit.",
+        "Demonstrated prowess in Chakra UI for streamlined development processes, creating visually appealing and consistent designs."
+     ],
+     "skills":["Redux","Chakra UI","React Query","Typescript"]
+    }
+
+
+]

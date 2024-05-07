@@ -1,0 +1,11 @@
+[
+    {
+        "project_name":"Dashboard Creation",
+        "description":[
+            "Developed a homepage consisting of jvector maps and on clicking on widgets will lead you to the dashboard page",
+            "On the dashboard page we have sidebar for navigation and charts for depicting data "
+        ],
+        "link":"https://sweti-singh.github.io/dashboard/",
+        "pictures":["/homeScreen.png","/dashboardScreen.png"]
+    }
+]
